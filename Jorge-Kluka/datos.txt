@@ -1,3 +1,0 @@
-Nombre: Jorge
-Apellido: Kluka
-Legajo: 20013

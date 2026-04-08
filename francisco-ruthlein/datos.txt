@@ -1,3 +1,0 @@
-Nombre: Francisco
-Apellido: Ruthlein
-Legajo: 45135716

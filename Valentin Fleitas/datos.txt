@@ -1,3 +1,0 @@
-Nombre: Valentin
-Apellido: Fleitas
-DNI: 46.567.546

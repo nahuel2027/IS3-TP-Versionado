@@ -1,3 +1,0 @@
-Nombre: Kevin
-Apellido: Rodriguez
-DNI: 46146170

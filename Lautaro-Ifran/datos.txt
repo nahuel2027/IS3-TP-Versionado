@@ -1,3 +1,0 @@
-Nombre: Lautaro
-Apellido: Ifran
-Legajo/DNI: 45939148
